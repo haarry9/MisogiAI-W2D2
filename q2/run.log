@@ -1,0 +1,105 @@
+Q: What is the capital of France?
+A1: You ask, yes, and you get a
+→ RETRY: answer differs from KB
+A2: France is the world's largest economy
+→ RETRY: answer differs from KB
+
+--------------------------------------------------
+Q: Who wrote 'Pride and Prejudice'?
+A1: ', and 'Why You Shouldn't Fight the War'
+→ RETRY: answer differs from KB
+A2: 'Pride and Prejudice' is a satire and satirical feature documentary about the lives
+→ RETRY: answer differs from KB
+
+--------------------------------------------------
+Q: What is the boiling point of water in Celsius?
+A1: The boiling point of water is the difference between the temperature of your body and the temperature of
+→ RETRY: answer differs from KB
+A2: The boiling point is about 1
+→ RETRY: answer differs from KB
+
+--------------------------------------------------
+Q: Who developed the theory of relativity?
+A1: We know that the only way to understand how the Universe is moving is to think about it
+→ RETRY: answer differs from KB
+A2: The theory has been around for a while and has been applied to many different situations
+→ RETRY: answer differs from KB
+
+--------------------------------------------------
+Q: What is the largest planet in our solar system?
+A1: There are over 5,000 Earth-sized planets around the Sun, but there are a
+→ RETRY: answer differs from KB
+A2: Earth is about 7,000 times larger than the Solar System, and it is approximately one
+→ RETRY: answer differs from KB
+
+--------------------------------------------------
+Q: What language is primarily spoken in Brazil?
+A1: In Brazil, there are a couple of different kinds of languages
+→ RETRY: answer differs from KB
+A2: L
+→ RETRY: answer differs from KB
+
+--------------------------------------------------
+Q: How many continents are there?
+A1: That question was answered in the last article
+→ RETRY: answer differs from KB
+A2: And what is the
+→ RETRY: answer differs from KB
+
+--------------------------------------------------
+Q: Who painted the Mona Lisa?
+A1: Yes
+→ RETRY: answer differs from KB
+A2: That's not true
+→ RETRY: answer differs from KB
+
+--------------------------------------------------
+Q: What is the chemical symbol for gold?
+A1: Gold, which is a symbol of wisdom, is the precious metal of the earth, the
+→ RETRY: answer differs from KB
+A2: A key clue is that it's a symbol of the gold chain
+→ RETRY: answer differs from KB
+
+--------------------------------------------------
+Q: What is the smallest prime number?
+A1: It's hard to tell, but this is the smallest number in a dictionary
+→ RETRY: answer differs from KB
+A2: The minimum number of digits in a prime number is the smallest number of digits in a prime
+→ RETRY: answer differs from KB
+
+--------------------------------------------------
+Q: What is the speed of light in vacuum?
+A1: A
+→ RETRY: out-of-domain
+A2: This question has been asked for many years and is considered by the physicists to be the most
+→ RETRY: out-of-domain
+
+--------------------------------------------------
+Q: Who discovered penicillin?
+A1: Some people don't know that it's a secret that penicillin is very powerful
+→ RETRY: out-of-domain
+A2: Yes, you can, but they're not necessarily as effective as they should be
+→ RETRY: out-of-domain
+
+--------------------------------------------------
+Q: What is the population of Mars?
+A1: The population of Mars is estimated at 8
+→ RETRY: out-of-domain
+A2: Mars is about two billion people
+→ RETRY: out-of-domain
+
+--------------------------------------------------
+Q: What is the square root of -1?
+A1: So that's the square root of -1
+→ RETRY: out-of-domain
+A2: Here are some examples from the above table
+→ RETRY: out-of-domain
+
+--------------------------------------------------
+Q: What is the largest mammal in the ocean?
+A1: The largest mammal in the ocean is the whale
+→ RETRY: out-of-domain
+A2: Most of the time it is called the "Big Five
+→ RETRY: out-of-domain
+
+--------------------------------------------------

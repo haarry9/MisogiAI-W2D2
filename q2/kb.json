@@ -1,0 +1,12 @@
+[
+  {"question": "What is the capital of France?", "answer": "Paris"},
+  {"question": "Who wrote 'Pride and Prejudice'?", "answer": "Jane Austen"},
+  {"question": "What is the boiling point of water in Celsius?", "answer": "100"},
+  {"question": "Who developed the theory of relativity?", "answer": "Albert Einstein"},
+  {"question": "What is the largest planet in our solar system?", "answer": "Jupiter"},
+  {"question": "What language is primarily spoken in Brazil?", "answer": "Portuguese"},
+  {"question": "How many continents are there?", "answer": "7"},
+  {"question": "Who painted the Mona Lisa?", "answer": "Leonardo da Vinci"},
+  {"question": "What is the chemical symbol for gold?", "answer": "Au"},
+  {"question": "What is the smallest prime number?", "answer": "2"}
+]
